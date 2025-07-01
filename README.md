@@ -1,4 +1,9 @@
-# fewd1-example
-This is an example
+# My First Repository
 
-hi from Emily
+Welcome to my first GitHub repository!
+
+## About Me
+* Physics Graduate  
+* Basic skills in Python 
+* Interested in Data Visualization and Insights  
+
